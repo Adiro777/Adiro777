@@ -6,7 +6,7 @@ Video games are what got me into computer science. My initial dream was to becom
 
 Not only am I interested in game development, but I am also interested in UX design, machine learning, and back/front end development.
 
-I'm also interested in video editing! [Click here to view my YouTube channel!](https://www.youtube.com/channel/UCqPqov_C4vpyFJuMAUefZ4A)
+I'm also interested in video editing! [This link](https://www.youtube.com/channel/UCqPqov_C4vpyFJuMAUefZ4A) will take you to my gaming channel. [This link](https://www.youtube.com/channel/UCpIhuWlZdppgw_lC_A8jejQ) will take you to my game development channel.
 
 # Skills 🗒️
 **What I'm Confident With!**
