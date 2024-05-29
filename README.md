@@ -14,15 +14,26 @@ I'm also interested in video editing! [Click here to view my YouTube channel!](h
 - Java
 - Swift
 
+
+[![My Skills](https://skillicons.dev/icons?i=python,java,swift)](https://skillicons.dev)
+
+
 **What I'm Somewhat Familiar With!**
 - C
 - Firebase
+
+
+[![My Skills](https://skillicons.dev/icons?i=c,firebase)](https://skillicons.dev)
+
 
 **What I'm Learning Right NOW!**
 - JavaScript
 - C#
 - React
 - Node.js
+
+
+[![My Skills](https://skillicons.dev/icons?i=js,cs,react,nodejs)](https://skillicons.dev)
   
 
 
