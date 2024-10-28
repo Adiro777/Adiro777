@@ -1,6 +1,6 @@
 # Hey Everyone! 👋
 
-I'm Adi Roitburg. I'm an upcoming junior at Loyola Marymount University, majoring in Computer Science and minoring in Game Design. 
+I'm Adi Roitburg. I'm a junior at Loyola Marymount University, majoring in Computer Science and minoring in Game Design. 
 
 Video games are what got me into computer science. My initial dream was to become a game developer, with the hopes of being able to contribute to some of my favorite games (Destiny 2, Overwatch, Risk of Rain). However, as my knowledge in the field expanded, so has my career interests.
 
